@@ -1,2 +1,3 @@
 # Actividades-introductorias
-actividades introductorias de la primera practica
+actividades introductorias de la segunda practica
+
